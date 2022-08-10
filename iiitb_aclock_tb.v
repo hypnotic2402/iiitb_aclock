@@ -1,5 +1,5 @@
 `timescale 1ms/1ps
-module digAClock_tb;
+module test;
 // fpga4student.com FPGA projects, VHDL projects, Verilog project
  // Inputs
  reg reset;
