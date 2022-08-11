@@ -1,4 +1,4 @@
-# iiitb_digAClock -> Alarm Clock Implementation using Verilog
+# iiitb_aclock -> Alarm Clock Implementation using Verilog
 
 A digital clock with an alarm feature implemented
 using Verilog is presented in this paper. The clock design can be
