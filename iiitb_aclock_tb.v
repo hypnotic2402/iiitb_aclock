@@ -23,7 +23,7 @@ module test;
  wire [3:0] S_out0;
 // fpga4student.com FPGA projects, VHDL projects, Verilog project
  // Instantiate the Unit Under Test (UUT)
- aclock uut (
+ iiitb_aclock uut (
  .reset(reset), 
  .clk(clk), 
  .H_in1(H_in1), 

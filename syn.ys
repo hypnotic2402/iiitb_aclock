@@ -1,5 +1,5 @@
 read_verilog iiitb_aclock.v
-hierarchy -check -top aclock
+hierarchy -check -top iiitb_aclock
 proc; opt; memory; opt; fsm; opt
 # techmap; opt
 abc -liberty ./lib/sky130_fd_sc_hd__tt_025C_1v80.lib

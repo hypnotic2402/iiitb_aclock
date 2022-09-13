@@ -1,5 +1,5 @@
 {
-    "DESIGN_NAME": "aclock",
+    "DESIGN_NAME": "iiitb_aclock",
     "VERILOG_FILES": "dir::iiitb_aclock.v",
     "CLOCK_PORT": "clk",
     "CLOCK_NET": "clk",
